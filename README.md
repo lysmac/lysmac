@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @lysmac
-- 👀 I’m interested in data
-- 🌱 I’m currently learning how to data
-- 💞️ I’m looking to collaborate on data?
-- 📫 How to reach me @lysmask
+- 👋 Hi, I’m @lysmac, front end developer student from Gothenburg, Sweden.
 
 <!---
 lysmac/lysmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
